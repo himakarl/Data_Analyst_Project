@@ -1,0 +1,201 @@
+Restaurant_ID,Restaurant_Name,Cuisine,Category,City,Rating
+20001,Restaurant 1,South Indian,Veg,Hyderabad,4.8
+20002,Restaurant 2,South Indian,Non-Veg,Thane,4.2
+20003,Restaurant 3,Italian,Veg,Pune,4.5
+20004,Restaurant 4,Biryani,Both,Bengaluru,3.5
+20005,Restaurant 5,Italian,Non-Veg,Hyderabad,3.9
+20006,Restaurant 6,Biryani,Both,Bengaluru,3.5
+20007,Restaurant 7,Desserts,Both,Bengaluru,4.7
+20008,Restaurant 8,Italian,Non-Veg,Nagpur,4.8
+20009,Restaurant 9,North Indian,Both,Delhi,3.1
+20010,Restaurant 10,Cafe,Both,Thane,3.7
+20011,Restaurant 11,South Indian,Veg,Thane,4.8
+20012,Restaurant 12,Fast Food,Both,Bengaluru,4.4
+20013,Restaurant 13,Italian,Both,Pune,3.0
+20014,Restaurant 14,Fast Food,Both,Bengaluru,4.1
+20015,Restaurant 15,Biryani,Both,Hyderabad,5.0
+20016,Restaurant 16,South Indian,Non-Veg,Bengaluru,4.4
+20017,Restaurant 17,Fast Food,Non-Veg,Mumbai,4.8
+20018,Restaurant 18,Fast Food,Veg,Mumbai,4.5
+20019,Restaurant 19,Cafe,Non-Veg,Nashik,3.3
+20020,Restaurant 20,Fast Food,Both,Pune,4.8
+20021,Restaurant 21,North Indian,Veg,Mumbai,3.2
+20022,Restaurant 22,Biryani,Both,Nagpur,3.0
+20023,Restaurant 23,Fast Food,Both,Mumbai,2.8
+20024,Restaurant 24,North Indian,Veg,Bengaluru,4.2
+20025,Restaurant 25,North Indian,Both,Delhi,3.5
+20026,Restaurant 26,Biryani,Veg,Mumbai,3.7
+20027,Restaurant 27,North Indian,Veg,Bengaluru,4.7
+20028,Restaurant 28,Cafe,Non-Veg,Delhi,4.5
+20029,Restaurant 29,North Indian,Non-Veg,Bengaluru,4.7
+20030,Restaurant 30,Biryani,Veg,Pune,2.9
+20031,Restaurant 31,Italian,Veg,Pune,2.8
+20032,Restaurant 32,Biryani,Non-Veg,Bengaluru,3.6
+20033,Restaurant 33,Chinese,Both,Bengaluru,4.0
+20034,Restaurant 34,Fast Food,Both,Delhi,3.3
+20035,Restaurant 35,Fast Food,Both,Delhi,4.5
+20036,Restaurant 36,Biryani,Both,Thane,4.0
+20037,Restaurant 37,Chinese,Non-Veg,Mumbai,
+20038,Restaurant 38,South Indian,Both,Bengaluru,4.0
+20039,Restaurant 39,Italian,Non-Veg,Pune,3.1
+20040,Restaurant 40,Chinese,Veg,Mumbai,4.9
+20041,Restaurant 41,Italian,Both,Nagpur,4.0
+20042,Restaurant 42,Biryani,Both,Nagpur,3.4
+20043,Restaurant 43,Chinese,Both,Mumbai,4.8
+20044,Restaurant 44,Italian,Non-Veg,Delhi,3.6
+20045,Restaurant 45,Biryani,Non-Veg,Delhi,3.3
+20046,Restaurant 46,North Indian,Veg,Mumbai,3.3
+20047,Restaurant 47,Cafe,Both,Bengaluru,2.9
+20048,Restaurant 48,Cafe,Non-Veg,Hyderabad,2.9
+20049,Restaurant 49,Italian,Veg,Thane,4.9
+20050,Restaurant 50,Cafe,Veg,Nashik,2.8
+20051,Restaurant 51,Biryani,Non-Veg,Thane,3.6
+20052,Restaurant 52,Desserts,Veg,Nagpur,3.5
+20053,Restaurant 53,Fast Food,Veg,Thane,3.9
+20054,Restaurant 54,Biryani,Veg,Delhi,3.4
+20055,Restaurant 55,Italian,Veg,Bengaluru,4.7
+20056,Restaurant 56,Desserts,Veg,Mumbai,4.3
+20057,Restaurant 57,Italian,Both,Bengaluru,4.7
+20058,Restaurant 58,Desserts,Veg,Hyderabad,2.9
+20059,Restaurant 59,Fast Food,Both,Mumbai,4.7
+20060,Restaurant 60,Chinese,Veg,Nagpur,4.6
+20061,Restaurant 61,Chinese,Both,Bengaluru,4.8
+20062,Restaurant 62,Chinese,Non-Veg,Hyderabad,3.0
+20063,Restaurant 63,Biryani,Both,Hyderabad,3.0
+20064,Restaurant 64,North Indian,Both,Nashik,4.7
+20065,Restaurant 65,North Indian,Veg,Nagpur,3.2
+20066,Restaurant 66,Italian,Both,Hyderabad,3.9
+20067,Restaurant 67,North Indian,Veg,Bengaluru,4.3
+20068,Restaurant 68,South Indian,Veg,Delhi,2.9
+20069,Restaurant 69,Cafe,Veg,Nagpur,4.9
+20070,Restaurant 70,Chinese,Both,Pune,3.3
+20071,Restaurant 71,Desserts,Veg,Bengaluru,4.0
+20072,Restaurant 72,Italian,Both,Pune,4.9
+20073,Restaurant 73,Chinese,Veg,Thane,3.4
+20074,Restaurant 74,Fast Food,Veg,Mumbai,
+20075,Restaurant 75,North Indian,Non-Veg,Bengaluru,3.2
+20076,Restaurant 76,Biryani,Both,Mumbai,3.4
+20077,Restaurant 77,Fast Food,Both,Bengaluru,4.2
+20078,Restaurant 78,Fast Food,Non-Veg,Hyderabad,4.3
+20079,Restaurant 79,Cafe,Non-Veg,Nagpur,3.5
+20080,Restaurant 80,Cafe,Non-Veg,Nagpur,3.7
+20081,Restaurant 81,North Indian,Veg,Thane,4.8
+20082,Restaurant 82,Cafe,Veg,Nashik,4.3
+20083,Restaurant 83,South Indian,Both,Mumbai,4.3
+20084,Restaurant 84,North Indian,Non-Veg,Bengaluru,4.8
+20085,Restaurant 85,Desserts,Both,Bengaluru,4.3
+20086,Restaurant 86,North Indian,Non-Veg,Delhi,3.8
+20087,Restaurant 87,Cafe,Veg,Hyderabad,3.9
+20088,Restaurant 88,South Indian,Non-Veg,Thane,3.6
+20089,Restaurant 89,Biryani,Veg,Nashik,4.1
+20090,Restaurant 90,Fast Food,Non-Veg,Delhi,4.8
+20091,Restaurant 91,Biryani,Both,Delhi,4.7
+20092,Restaurant 92,Chinese,Veg,Bengaluru,4.1
+20093,Restaurant 93,Chinese,Non-Veg,Nashik,4.0
+20094,Restaurant 94,Chinese,Both,Delhi,4.3
+20095,Restaurant 95,North Indian,Non-Veg,Hyderabad,3.2
+20096,Restaurant 96,Cafe,Veg,Hyderabad,3.6
+20097,Restaurant 97,Fast Food,Non-Veg,Pune,3.1
+20098,Restaurant 98,Fast Food,Non-Veg,Pune,3.6
+20099,Restaurant 99,Fast Food,Non-Veg,Pune,3.4
+20100,Restaurant 100,Desserts,Both,Nagpur,3.8
+20101,Restaurant 101,Chinese,Veg,Nagpur,4.5
+20102,Restaurant 102,Italian,Both,Bengaluru,3.6
+20103,Restaurant 103,Cafe,Non-Veg,Mumbai,4.0
+20104,Restaurant 104,North Indian,Both,Thane,4.0
+20105,Restaurant 105,Chinese,Non-Veg,Thane,2.9
+20106,Restaurant 106,Fast Food,Veg,Thane,4.8
+20107,Restaurant 107,South Indian,Both,Delhi,4.6
+20108,Restaurant 108,Italian,Veg,Hyderabad,4.7
+20109,Restaurant 109,Fast Food,Both,Bengaluru,4.9
+20110,Restaurant 110,Desserts,Non-Veg,Bengaluru,4.8
+20111,Restaurant 111,North Indian,Both,Thane,
+20112,Restaurant 112,Cafe,Both,Thane,4.9
+20113,Restaurant 113,Cafe,Both,Nagpur,3.6
+20114,Restaurant 114,Italian,Both,Bengaluru,4.8
+20115,Restaurant 115,Italian,Non-Veg,Pune,2.9
+20116,Restaurant 116,Desserts,Non-Veg,Hyderabad,3.0
+20117,Restaurant 117,Desserts,Both,Mumbai,4.0
+20118,Restaurant 118,Desserts,Non-Veg,Hyderabad,3.0
+20119,Restaurant 119,Desserts,Veg,Pune,3.7
+20120,Restaurant 120,Desserts,Veg,Mumbai,3.8
+20121,Restaurant 121,Italian,Non-Veg,Mumbai,4.3
+20122,Restaurant 122,Fast Food,Both,Bengaluru,4.8
+20123,Restaurant 123,Desserts,Veg,Pune,4.5
+20124,Restaurant 124,South Indian,Both,Mumbai,3.3
+20125,Restaurant 125,South Indian,Veg,Delhi,3.0
+20126,Restaurant 126,Italian,Both,Bengaluru,2.9
+20127,Restaurant 127,North Indian,Both,Hyderabad,3.9
+20128,Restaurant 128,Chinese,Non-Veg,Mumbai,4.7
+20129,Restaurant 129,Chinese,Non-Veg,Bengaluru,4.7
+20130,Restaurant 130,North Indian,Veg,Thane,3.2
+20131,Restaurant 131,South Indian,Non-Veg,Hyderabad,3.9
+20132,Restaurant 132,Fast Food,Both,Hyderabad,3.4
+20133,Restaurant 133,Cafe,Both,Mumbai,3.9
+20134,Restaurant 134,Italian,Non-Veg,Hyderabad,3.5
+20135,Restaurant 135,Fast Food,Non-Veg,Nashik,4.7
+20136,Restaurant 136,Italian,Both,Bengaluru,3.1
+20137,Restaurant 137,Desserts,Both,Nagpur,4.9
+20138,Restaurant 138,Biryani,Veg,Delhi,3.6
+20139,Restaurant 139,North Indian,Both,Bengaluru,4.8
+20140,Restaurant 140,South Indian,Non-Veg,Bengaluru,2.8
+20141,Restaurant 141,Italian,Non-Veg,Thane,2.9
+20142,Restaurant 142,Italian,Both,Delhi,3.2
+20143,Restaurant 143,Desserts,Veg,Nashik,3.7
+20144,Restaurant 144,Cafe,Both,Pune,2.9
+20145,Restaurant 145,South Indian,Both,Delhi,2.9
+20146,Restaurant 146,Chinese,Non-Veg,Nashik,3.2
+20147,Restaurant 147,Fast Food,Veg,Nagpur,4.3
+20148,Restaurant 148,Chinese,Both,Nashik,
+20149,Restaurant 149,Desserts,Veg,Nashik,3.9
+20150,Restaurant 150,North Indian,Non-Veg,Nashik,4.5
+20151,Restaurant 151,Fast Food,Both,Delhi,4.2
+20152,Restaurant 152,Chinese,Veg,Nagpur,4.3
+20153,Restaurant 153,Desserts,Non-Veg,Nashik,2.9
+20154,Restaurant 154,Biryani,Both,Nagpur,4.7
+20155,Restaurant 155,Fast Food,Non-Veg,Nashik,3.5
+20156,Restaurant 156,Italian,Non-Veg,Mumbai,3.1
+20157,Restaurant 157,Chinese,Both,Thane,3.5
+20158,Restaurant 158,South Indian,Veg,Delhi,3.3
+20159,Restaurant 159,Chinese,Non-Veg,Bengaluru,3.1
+20160,Restaurant 160,South Indian,Veg,Bengaluru,4.3
+20161,Restaurant 161,Italian,Both,Pune,3.1
+20162,Restaurant 162,Biryani,Veg,Delhi,3.4
+20163,Restaurant 163,South Indian,Veg,Delhi,4.8
+20164,Restaurant 164,Fast Food,Both,Pune,3.4
+20165,Restaurant 165,Desserts,Non-Veg,Nashik,3.2
+20166,Restaurant 166,Fast Food,Veg,Pune,4.1
+20167,Restaurant 167,Biryani,Veg,Nagpur,4.9
+20168,Restaurant 168,North Indian,Veg,Bengaluru,4.2
+20169,Restaurant 169,Desserts,Veg,Bengaluru,3.6
+20170,Restaurant 170,Chinese,Veg,Thane,4.4
+20171,Restaurant 171,Desserts,Veg,Pune,4.6
+20172,Restaurant 172,Cafe,Non-Veg,Mumbai,4.5
+20173,Restaurant 173,South Indian,Non-Veg,Nagpur,2.9
+20174,Restaurant 174,Biryani,Veg,Bengaluru,3.7
+20175,Restaurant 175,Chinese,Non-Veg,Nagpur,4.4
+20176,Restaurant 176,South Indian,Non-Veg,Mumbai,4.3
+20177,Restaurant 177,Desserts,Non-Veg,Nagpur,4.7
+20178,Restaurant 178,South Indian,Veg,Pune,3.4
+20179,Restaurant 179,Fast Food,Both,Pune,3.1
+20180,Restaurant 180,Italian,Veg,Mumbai,3.5
+20181,Restaurant 181,Biryani,Veg,Thane,3.9
+20182,Restaurant 182,Italian,Veg,Nashik,3.7
+20183,Restaurant 183,Italian,Veg,Mumbai,4.4
+20184,Restaurant 184,North Indian,Non-Veg,Nashik,3.0
+20185,Restaurant 185,Italian,Veg,Nagpur,
+20186,Restaurant 186,Fast Food,Veg,Hyderabad,3.1
+20187,Restaurant 187,South Indian,Non-Veg,Pune,3.7
+20188,Restaurant 188,Italian,Veg,Nashik,3.0
+20189,Restaurant 189,North Indian,Veg,Pune,4.1
+20190,Restaurant 190,South Indian,Veg,Nashik,4.1
+20191,Restaurant 191,Chinese,Non-Veg,Bengaluru,4.2
+20192,Restaurant 192,Desserts,Both,Nagpur,3.0
+20193,Restaurant 193,Cafe,Non-Veg,Mumbai,2.8
+20194,Restaurant 194,Italian,Veg,Nagpur,3.0
+20195,Restaurant 195,Biryani,Veg,Nashik,3.1
+20196,Restaurant 196,Italian,Both,Bengaluru,3.2
+20197,Restaurant 197,South Indian,Veg,Delhi,4.4
+20198,Restaurant 198,Biryani,Veg,Pune,2.9
+20199,Restaurant 199,North Indian,Non-Veg,Hyderabad,3.2
+20200,Restaurant 200,Biryani,Both,Nagpur,3.0
